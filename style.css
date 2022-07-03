@@ -1,8 +1,14 @@
-h1, address {
+h1 {
+    font-size: 50px;
     color:indigo;
-    text-align: center;
+    text-align: left;
     background-color:coral;
-    margin:0 30%;
-    border: solid black;
-    
+    margin:20px 20%;
+    border-radius: 5px;
+    width: 45px;
+}
+img {
+size: 100px;
+border-image: 3px;
+
 }
