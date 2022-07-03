@@ -8,7 +8,9 @@ h1 {
     width: 45px;
 }
 img {
-size: 100px;
-border-image: 3px;
-
+    margin: 0 40%; 
+    border: solid black;
+    border-width: 5px;
+    border-radius: 10px;
+    width: 400px; 
 }
