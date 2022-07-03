@@ -5,12 +5,33 @@ h1 {
     background-color:coral;
     margin:20px 20%;
     border-radius: 5px;
-    width: 45px;
+    width: 60px;
 }
 img {
     margin: 0 40%; 
     border: solid black;
     border-width: 5px;
-    border-radius: 10px;
-    width: 400px; 
+    border-radius: 400px;
+    width: 330px; 
+    margin-left: 90%;
+}
+h4 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: crimson;
+    margin-left: 5%;
+}
+section {
+    display:flex;
+
+}
+.top-margin {
+    margin-left: 20%;
+}
+.top-half-width {
+    width: 60%;
+    padding: 0;
+}
+p {
+    text-align: justify;
+    font-family:Tahoma, sans-serif ;
 }
